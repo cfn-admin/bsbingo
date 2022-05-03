@@ -28,9 +28,10 @@ GRC: governance, risk, and compliance
 
 SCADA: Supervisory Control and Data Acquisition
 SIEM: Security Infomation Event Management
-SPLUNK: 
+SPLUNK: View logs files, run queury's on the data 
 SGUIL: 
-SNORT: 
+SNORT: create rules that detect certain events and triggers
+
 
 
 
